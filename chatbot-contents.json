@@ -1,0 +1,86 @@
+[
+  {
+    "code": "0",
+    "title": "인사말(main)",
+    "contents": [
+      {
+        "type": "speak",
+        "image": null,
+        "text": "안녕하세요😊 저는 부산과학기술대학교 AI소프트웨어학과 안내 챗봇이에요! AI소프트웨어학과에 대해서 알려드릴게요!",
+        "button": []
+      }
+    ]
+  },
+  {
+    "code": "1",
+    "title": "학과 소개",
+    "contents": [
+      {
+        "type": "speak",
+        "image": null,
+        "text": "AI소프트웨어학과는 소프트웨어 분야에 특화된 실무교육으로 소프트웨어 전문가를 양성하며, 협업과 소통을 기반으로 한 교육 프로그램을 통해 창의적 인재를 육성합니다. LINC+ 육성사업으로 AI 실무자 과정을 운영하고 있으며 졸업 후에는 다양한 소프트웨어 관련 직업에 취업하거나, 연계편입학을 통해 학업을 이어갈 수 있습니다. 창조적 인재상을 목표로 하며 홍익기술의 건학이념을 바탕으로 인성교육과 전문기술 교육을 실천합니다.",
+        "button": [
+          {
+            "text": "더 알아보기",
+            "type": "url",
+            "action": "http://computer.bist.ac.kr/contents/contents_view.php?site_id=computer&TREE_NO=1656&DEPTH=3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "2",
+    "title": "교수 소개",
+    "contents": [
+      {
+        "type": "speak",
+        "image": null,
+        "text": "부산과학기술대학교 AI소프트웨어학과에는 이상훈, 박경훈, 강훈 교수님이 계시며 데이터베이스, 데이터 사이언스, JAVA, 인공지능, 애플리케이션 개발, 객체지향 프로그래밍, 웹 프로그래밍 등을 가르칩니다. 교수님들은 다양한 학력과 경력을 가지고 있으며 연구실도 각자 다른 곳에서 진행하고 계세요.",
+        "button": [
+          {
+            "text": "더 알아보기",
+            "type": "url",
+            "action": "http://computer.bist.ac.kr/professor/list.php?site_id=computer&TREE_NO=1579&DEPTH=2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "3",
+    "title": "교육과정",
+    "contents": [
+      {
+        "type": "speak",
+        "image": null,
+        "text": "부산과학기술대학교 AI소프트웨어학과에서는 정보능력과 의사소통능력 등의 직업 기초능력과 운영체제, 데이터사이언스 등 전공기초과목 강의를 제공하고 있어요. 또한 AI 프로그래밍, 네트워크시스템 같은 다양한 전공 심화 과목도 배울 수 있답니다. AI 클라우드와 같은 교과목을 비롯해 현장실습과 캡스톤디자인과 같은 실무 중심 교육으로 AI 분야의 전문가를 양성해요. 융합역량강화를 목표로 학습하고 실습하는 환경을 제공하고 있답니다!",
+        "button": [
+          {
+            "text": "더 알아보기",
+            "type": "url",
+            "action": "http://computer.bist.ac.kr/contents/contents_view.php?site_id=computer&TREE_NO=1658&DEPTH=3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "4",
+    "title": "학과시설",
+    "contents": [
+      {
+        "type": "speak",
+        "image": null,
+        "text": "AI소프트웨어학과의 학과시설은 진리관 5층에 위치하며, AI Lab은 1511호에, 프로그램 실습실은 1512호에 있어요. AI Lab는 서버용 PC, 인공지능 실습용 고사양 PC, 전자칠판, 대형 TV 모니터를 갖추고 AI 프로그래밍, 챗봇 개발, 빅데이터 분석 수업을 진행해요. 프로그램 실습실은 소프트웨어 개발, 웹 앱 개발, 데이터베이스 관리자 수업에 사용되는 고사양 PC와 기타 장비들을 보유하고 있답니다.",
+        "button": [
+          {
+            "text": "더 알아보기",
+            "type": "url",
+            "action": "http://computer.bist.ac.kr/contents/contents_view.php?site_id=computer&TREE_NO=1582&DEPTH=2"
+          }
+        ]
+      }
+    ]
+  }
+]
